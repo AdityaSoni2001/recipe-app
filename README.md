@@ -1,20 +1,20 @@
-Description:
+# Description:
+
+# Recipe App:
 
 Developed a recipe app using React that allows users to browse, search, and save recipes. Integrated external API for recipe data retrieval and implemented user authentication for saving favorite recipes.
 
 
-Recipe App:
-
 This repository contains the source code and assets for a recipe app.
 
-Features:																																																																																																									
+# Features:																																																																																																									
 
 1. Browse and search for recipes																																																																																																																				
 
 2. View recipe details including ingredients, instructions, and images
                                                                            				
 
-Installation Process:
+# Installation Process:
  
 To run the recipe app locally, follow these steps:
 
@@ -22,13 +22,13 @@ To run the recipe app locally, follow these steps:
 git clone https://github.com/your-username/recipe-app.git
 
 2. Navigate to the project directory:
-cd recipe-app
+"cd recipe-app"
 
 3. Install the necessary dependencies:
-npm install
+     "npm install"
 
 4. Start the development server:
-npm start
+      "npm start"
 
 The app should now be running at http://localhost:3000.
 
