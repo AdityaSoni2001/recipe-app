@@ -1,3 +1,8 @@
+Description:
+
+Developed a recipe app using React that allows users to browse, search, and save recipes. Integrated external API for recipe data retrieval and implemented user authentication for saving favorite recipes.
+
+
 Recipe App:
 
 This repository contains the source code and assets for a recipe app.
